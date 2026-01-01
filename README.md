@@ -47,7 +47,7 @@ I'm a passionate developer with a BSc in Mechatronics Engineering from Rajshahi 
 
 ![Top Languages](https://github-readme-stats-two-xi-22.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true) <!-- Replace yourusername -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KnoxNeon&theme=radical&hide_border=true) 
+![GitHub Streak]((https://github-readme-stats-two-xi-22.vercel.app/?user=KnoxNeon&theme=radical&hide_border=true) 
 
 <div align="center">
   <i>Open to remote opportunities • Always learning • Let's build something great together!</i>
