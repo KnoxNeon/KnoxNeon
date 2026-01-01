@@ -43,11 +43,11 @@ I'm a passionate developer with a BSc in Mechatronics Engineering from Rajshahi 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:iftey10@gmail.com)
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-two-xi-22.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true) <!-- Replace yourusername -->
+![Your GitHub Stats](https://github-readme-stats-two-xi-22.vercel.app/api?username=KnoxNeon&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-two-xi-22.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true) <!-- Replace yourusername -->
+![Top Languages](https://github-readme-stats-two-xi-22.vercel.app/api/top-langs/?username=KnoxNeon&layout=compact&theme=radical&hide_border=true) 
 
-![GitHub Streak]((https://github-readme-stats-two-xi-22.vercel.app/?user=KnoxNeon&theme=radical&hide_border=true) 
+![GitHub Streak](https://github-readme-stats-two-xi-22.vercel.app/?user=KnoxNeon&theme=radical&hide_border=true) 
 
 <div align="center">
   <i>Open to remote opportunities • Always learning • Let's build something great together!</i>
