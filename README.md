@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1600x400/0f172a/1e293b?text=Md.+Iftekharul+Alam+Bhuiyan+-+Jr.+Frontend+/+MERN+Stack+Developer)
+![Banner](https://i.ibb.co.com/cSjp9JCr/Yellow-Modern-Freelance-Copywriter-Linked-In-Banner.png)
 
 <div align="center">
 
