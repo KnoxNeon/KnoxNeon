@@ -44,13 +44,9 @@ I'm a passionate developer with a BSc in Mechatronics Engineering from Rajshahi 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:iftey10@gmail.com)
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KnoxNeon&show_icons=true&theme=react" />
-</p>
+![Your GitHub Stats](https://github-readme-stats-two-xi-22.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true) <!-- Replace yourusername -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yKnoxNeon&theme=react" />
-</p>
+![Top Languages](https://github-readme-stats-two-xi-22.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true) <!-- Replace yourusername -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KnoxNeon&theme=radical&hide_border=true) 
 
