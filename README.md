@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/cSjp9JCr/Yellow-Modern-Freelance-Copywriter-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/0R0bkJj0/Yellow-Modern-Freelance-Copywriter-Linked-In-Banner.png)
 
 <div align="center">
 
